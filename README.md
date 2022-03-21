@@ -2,7 +2,7 @@
 
 # Step 1
   First thing is to Enter your work todo into Input box(What do you have planned today??)
-  and click on the plus button then your first task is added.
+  and click on the plus button then your first task is added. There is Limit till 28 Character only.
 
 # Step 2
   Once your task is added then there is Do button if you have to do that task then click on that button
